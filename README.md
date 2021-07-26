@@ -13,3 +13,4 @@ The following are recoomendations to PyBer on ways to address the disparity amon
 - The base fare(which affectcs the average fare per ride) can be slightly increased for the rural and suburban users in order to increase the total fare collected for both city types. 
 - There can be incetives in the rural area to increase the demand and so increase the number in total. An increae in the number of total rides will lead to an increase in the total fare collected.
 - There can be incentives for drivers in order to get more drivers in areas that are lacking. 
+![image](https://user-images.githubusercontent.com/85662949/126929518-2dbde8b2-e285-4f72-ab81-bbfcc0206baf.png)
