@@ -6,6 +6,8 @@ The PyBer Analysis project is aimed at looking at a data set of information of a
 Results 
 The analysis of the data from the different cities shows that the rural users have the lowest numbers (i.e lowest number of rides, drivers and total fares) while the urban cities have the highest number of rides, drivers and total fares. Although the total rides and number of drivers for the rural cities were the least, they had a significantly higher average fare per ride cost and average fare per driver cost in comparison to the other 2 city types. 
 The urban cities, however, had a significantly higher total fares in comparison to the otehr city types. 
+![image](https://user-images.githubusercontent.com/85662949/127026526-221f46a1-1430-4e9d-b4e5-770276a76798.png)
+
 
 
 Summary 
